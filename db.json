@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Optimus Prime",
+      "image": "https://tfwiki.net/mediawiki/images2/thumb/3/37/Optimusg1.jpg/350px-Optimusg1.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Optimus Prime",
+      "image": "https://tfwiki.net/mediawiki/images2/thumb/3/37/Optimusg1.jpg/350px-Optimusg1.jpg",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
